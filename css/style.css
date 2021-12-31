@@ -53,6 +53,7 @@ select {
 	margin-left:40px;
 	margin-top:10px;
 	font-size:20px;
+	font-family:Copperplate;
 }
 
 #side_window button {
@@ -80,6 +81,7 @@ select {
 	cursor: hand;
 	transition:background .3s;
 	font-size:16px;
+	font-family:Copperplate;
 }
 
 .button:hover{
